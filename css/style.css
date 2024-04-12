@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Castoro:ital@0;1&family=Handlee&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+	background-color: #E6FFF3;
+	font-family: "Castoro", serif;
+	font-size:15px ;
+  font-weight: 200;
+  font-style: italic;
+  text-align: center;
+  margin: 0px;
+}
+h1{
+	font-family: "Handlee", cursive;
+  font-weight: bold;
+	font-size:37px ;
+  font-style: normal;
+}
+h2,h3,h4,h5{
+	font-family: "Castoro", serif;
+	font-size:27px ;
+	text-align: center;
+  font-weight: 200;
+
+}
+
+a{
+	text-decoration: none;
+}
